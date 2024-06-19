@@ -10,4 +10,8 @@ terraform {
 
 provider "aws" {
   region = "us-east-1"
+  #se definen las tags globales que apareceran en cada recurso
+  default_tags {
+    tags = var.tags
+  }
 }

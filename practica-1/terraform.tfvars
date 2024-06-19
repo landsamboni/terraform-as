@@ -1,1 +1,1 @@
-bucket-name = "abcdef-myfirst-bucket"
+bucket-name = "aa-test-bucket-werfg456trdf54"
