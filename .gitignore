@@ -1,0 +1,17 @@
+# Ignorar todas las carpetas .terraform en cualquier nivel del repositorio
+**/.terraform/
+
+# Ignorar archivos de estado de Terraform
+*.tfstate
+*.tfstate.backup
+
+# Ignorar archivos de configuración de Terraform
+#*.tfvars
+
+# Ignorar otros archivos comunes
+*.log
+*.backup
+*.
+
+# Ignorar archivos .DS_Store
+.DS_Store
